@@ -140,5 +140,3 @@ streamlit run nome_do_app.py
 ---
 
 ## Autor: Mel Letícia
-
-Repositório desenvolvido para fins educacionais.
